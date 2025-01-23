@@ -2,7 +2,7 @@ print("Thank you for using the Grenner library!")
 
 local math = require("math")
 
-local PI = math.pi
+PI = math.pi
 
 function Pow(num, inc)
     local result = num^inc
