@@ -14,3 +14,7 @@ require("grenner")
 --local radius = 5
 --local c = Circumference(radius)
 --print(c)
+
+--Regular shape Perimeter Calculator (4-sided)
+--local perimeter = Perimeter(3, 6, 1, 9)
+--print(perimeter)
