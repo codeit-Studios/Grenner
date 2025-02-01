@@ -18,3 +18,8 @@ function Circumference(r)
     local c = 2*PI*r
     return c
 end
+
+function Perimeter(s1, s2, s3, s4)
+    local result = (s1 + s2) + (s3 + s4)
+    return result
+end
